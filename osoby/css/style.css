@@ -1,0 +1,15 @@
+.table_with_margin{
+	margin-top: 15px;
+}
+
+.main-header{
+	margin-bottom: 20px;
+}
+
+.placeholder_for_select{
+	color: #999;
+}
+
+.bs-placeholder{
+	color: #999!important;
+}
